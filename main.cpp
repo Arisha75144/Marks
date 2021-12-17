@@ -10,6 +10,11 @@ void log_menu () {
 //* 3. Print Entries
 //* 4. Exit
 //* Enter your choice:
+    std::cout << "Menu:" << std::endl;
+     std::cout << "1.Marks"<<std::endl;
+     std::cout << "2.Add marks"<<std::endl;
+     std::cout << "3.delete marks"<<std::endl;
+     std::cout << "4.exit"<<std::endl;
 
 
 
